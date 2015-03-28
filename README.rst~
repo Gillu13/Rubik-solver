@@ -1,7 +1,7 @@
 Rubik-solver
 ============
 
-This code solves the Rubik's cube thanks to group theory. It also comes with a 3D graphical implementation of the cube using PyOpenGL.   
+This code solves the Rubik's cube using group theory. It also comes with a 3D graphical implementation of the cube using PyOpenGL.   
 
 
 Usage
